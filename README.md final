@@ -1,0 +1,118 @@
+# 🤖 DILZZ4YOU REAL BOT
+
+![Banner](https://ibb.co.com/TB5Xbffq)
+
+Selamat datang di **DILZZ4YOU REAL BOT** 👋  
+Bot multifungsi Telegram dengan fitur **gratis** dan **premium** yang dirancang agar berguna, aman, dan membantu semua pengguna Telegram!
+
+---
+
+## ⚡ INFORMASI UMUM
+- 🆔 **Username Bot:** [@dilzz4you_new_bot](https://t.me/dilzz4you_new_bot)
+- 👑 **Owner:** [@dilzz4youreal](https://t.me/dilzz4youreal)
+- 💬 **Channel resmi:** *Segera hadir*
+- 💡 **Bahasa:** Indonesia
+- 🧩 **Framework:** python-telegram-bot v20.3  
+- 🚀 **Mode Operasi:** GitHub Actions (aktif 24 jam nonstop)
+
+---
+
+## 🔹 FITUR GRATIS (20 FITUR)
+Fitur yang bisa digunakan siapa pun tanpa biaya:
+
+| # | Nama Fitur | Deskripsi |
+|---|-------------|------------|
+| 1 | /start | Sambutan & menu utama |
+| 2 | /help | Daftar perintah |
+| 3 | /google | Pencarian Google |
+| 4 | /wiki | Pencarian Wikipedia |
+| 5 | /calc | Kalkulator sederhana |
+| 6 | /weather | Cek cuaca |
+| 7 | /translate | Terjemahan teks |
+| 8 | /shortlink | Pemendek tautan |
+| 9 | /quote | Kutipan motivasi acak |
+| 10 | /reminder | Pengingat harian |
+| 11 | /anonmsg | Pesan anonim |
+| 12 | /music | Downloader musik |
+| 13 | /ytlow | Downloader YouTube kualitas rendah |
+| 14 | /insta | Downloader Instagram |
+| 15 | /pdf | Convert teks ke PDF |
+| 16 | /time | Waktu otomatis |
+| 17 | /notes | Catatan teks pribadi |
+| 18 | /games | Mini game (acak dadu, angka, emoji) |
+| 19 | /pin | Pin otomatis |
+| 20 | /groupstats | Statistik grup sederhana |
+
+---
+
+## 🔒 FITUR PREMIUM (20 FITUR)
+Fitur ini dikunci secara permanen sampai pengguna melakukan pembayaran dan dikonfirmasi oleh owner.
+
+| # | Nama Fitur | Deskripsi |
+|---|-------------|------------|
+| 1 | /aichat | Chat AI lanjutan |
+| 2 | /antilink | Proteksi grup anti-link |
+| 3 | /checknumber | Cek nomor telepon |
+| 4 | /autokick | Hapus spam otomatis |
+| 5 | /groupguard | Keamanan grup lanjutan |
+| 6 | /backup | Backup file & chat grup |
+| 7 | /converter | Convert berbagai format |
+| 8 | /ytdlhd | YouTube downloader 1080p |
+| 9 | /instahd | Instagram downloader HD |
+| 10 | /broadcast | Kirim pesan massal |
+| 11 | /voicetotext | Ubah suara jadi teks |
+| 12 | /premiumtools | Alat premium tambahan |
+| 13 | /promote | Promosi otomatis di channel |
+| 14 | /membercheck | Cek siapa yang keluar grup |
+| 15 | /schedule | Jadwal reminder otomatis |
+| 16 | /lockcmd | Kunci perintah tertentu |
+| 17 | /autodelete | Hapus pesan otomatis |
+| 18 | /banner | Custom banner sambutan |
+| 19 | /premiumhelp | Daftar fitur premium |
+| 20 | /confirm_paid | Konfirmasi pengguna berbayar |
+
+---
+
+## 💰 PEMBAYARAN PREMIUM
+Untuk membuka fitur premium, lakukan pembayaran ke:
+
+- **DANA:** `083847878388`  
+- **GoPay:** `083168967048`  
+
+Setelah transfer, kirim bukti pembayaran ke **[@dilzz4youreal](https://t.me/dilzz4youreal)**.  
+Owner akan mengaktifkan fitur premium kamu secara manual ✅
+
+---
+
+## 🧩 SISTEM KEAMANAN
+- 🔐 Fitur premium **tidak akan aktif di grup atau channel** tanpa izin owner.  
+- 🚫 Sistem anti-link otomatis untuk mencegah spam.  
+- 🛡️ Owner dapat membuka akses premium dengan perintah `/confirm_paid`.
+
+---
+
+## ⚙️ CARA MENJALANKAN BOT DI GITHUB (AUTO 24 JAM)
+1. Upload file `dilzz4you_new_bot_full.py`
+2. Tambahkan file workflow di `.github/workflows/bot.yml`
+3. Pergi ke `Settings → Secrets → Actions`
+4. Tambahkan secret:
+5. Pergi ke tab **Actions**, pilih workflow `Telegram Bot DILZZ4YOU`, dan klik **Run workflow**
+
+Bot kamu akan aktif otomatis tanpa perlu Termux 🎉
+
+---
+
+## 🧑‍💻 OWNER & KONTAK
+**👑 Owner:** [@dilzz4youreal](https://t.me/dilzz4youreal)  
+Untuk pertanyaan, saran, atau laporan bug, silakan hubungi owner melalui Telegram.
+
+---
+
+## 🌟 DUKUNG
+Kalau kamu suka proyek ini, jangan lupa kasih ⭐ di GitHub repo kamu 😉  
+Bot ini dikembangkan untuk membantu pengguna Telegram dengan fitur-fitur bermanfaat dan aman digunakan.
+
+---
+
+> ✨ Dibuat dengan ❤️ oleh **DILZZ4YOU REAL**  
+> Powered by [python-telegram-bot](https://python-telegram-bot.org/)
